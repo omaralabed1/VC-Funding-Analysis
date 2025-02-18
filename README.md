@@ -1,7 +1,7 @@
 # 📊 Startup Funding Analysis  
 
 ## 📌 Overview  
-This project explores **venture capital funding trends** across industries, countries, and time periods. By analyzing a dataset of startup investments, we uncover key insights into where and how funding has evolved over time.  
+This project was driven by **curiosity and a deep interest** in understanding how **venture capital funding** flows across different industries, countries, and time periods. By analyzing a dataset of startup investments, I aimed to uncover key insights into funding trends, major investment shifts, and the factors influencing venture capital decisions.
 
 ## 🔍 Key Insights  
 
